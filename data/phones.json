@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ip15-128",
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "variant": "128GB",
+    "price_vnd": 18990000,
+    "stock": 12,
+    "specs": { "ram_gb": 6, "storage_gb": 128, "battery_mah": 3349, "chipset": "A16 Bionic", "screen_inch": 6.1, "refresh_hz": 60 }
+  },
+  {
+    "id": "ip15pm-256",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "variant": "256GB",
+    "price_vnd": 30990000,
+    "stock": 4,
+    "specs": { "ram_gb": 8, "storage_gb": 256, "battery_mah": 4422, "chipset": "A17 Pro", "screen_inch": 6.7, "refresh_hz": 120 }
+  },
+  {
+    "id": "ip17-256",
+    "brand": "Apple",
+    "model": "iPhone 17",
+    "variant": "256GB",
+    "price_vnd": 25990000,
+    "stock": 7,
+    "specs": { "ram_gb": 8, "storage_gb": 256, "battery_mah": 3600, "chipset": "A19", "screen_inch": 6.3, "refresh_hz": 120 }
+  },
+  {
+    "id": "ss-s24u-256",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "variant": "256GB",
+    "price_vnd": 28990000,
+    "stock": 6,
+    "specs": { "ram_gb": 12, "storage_gb": 256, "battery_mah": 5000, "chipset": "Snapdragon 8 Gen 3", "screen_inch": 6.8, "refresh_hz": 120 }
+  },
+  {
+    "id": "ss-a55-128",
+    "brand": "Samsung",
+    "model": "Galaxy A55",
+    "variant": "128GB",
+    "price_vnd": 8990000,
+    "stock": 20,
+    "specs": { "ram_gb": 8, "storage_gb": 128, "battery_mah": 5000, "chipset": "Exynos 1480", "screen_inch": 6.6, "refresh_hz": 120 }
+  },
+  {
+    "id": "xm-14t-256",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14T",
+    "variant": "256GB",
+    "price_vnd": 12990000,
+    "stock": 10,
+    "specs": { "ram_gb": 12, "storage_gb": 256, "battery_mah": 5000, "chipset": "Dimensity 8300-Ultra", "screen_inch": 6.67, "refresh_hz": 144 }
+  },
+  {
+    "id": "op-r12-256",
+    "brand": "OPPO",
+    "model": "Reno 12",
+    "variant": "256GB",
+    "price_vnd": 10990000,
+    "stock": 8,
+    "specs": { "ram_gb": 12, "storage_gb": 256, "battery_mah": 5000, "chipset": "Dimensity 7300", "screen_inch": 6.7, "refresh_hz": 120 }
+  }
+]
