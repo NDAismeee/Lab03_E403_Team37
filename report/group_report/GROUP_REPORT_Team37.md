@@ -1,7 +1,7 @@
 # Group Report: Lab 3 - Production-Grade Agentic System
 
-- **Team Name**: VinUni Phone Store (Lab 3)
-- **Team Members**: [Member 1, Member 2, Member 3]
+- **Team Name**: Team 37
+- **Team Members**: [Nguyen Duc Anh - 2A202600146]
 - **Deployment Date**: 2026-04-06
 
 ---
@@ -124,6 +124,3 @@ The agent runs a **Thought → Action (JSON) → Observation** loop in `src/agen
 - **Observability**: Ensure **both** chatbot and agent paths emit **`LLM_METRIC`** if you need apples-to-apples cost comparisons (currently agent-centric in logs).
 
 ---
-
-> [!NOTE]
-> Rename this file to `GROUP_REPORT_[TEAM_NAME].md` if your course requires a specific team slug. Metrics are reproducible from `logs/2026-04-06.log` by filtering `event == "LLM_METRIC"`.
